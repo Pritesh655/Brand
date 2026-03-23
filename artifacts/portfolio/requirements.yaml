@@ -1,0 +1,23 @@
+packages:
+  "framer-motion": "For page transitions, subtle scroll reveals, and high-end interaction animations"
+  "clsx": "For conditional class joining"
+  "tailwind-merge": "For merging tailwind classes safely"
+
+images:
+  - path: "artifacts/portfolio/public/images/project-1.png"
+    description: "Minimalist dark mode SaaS dashboard interface, glowing subtle neon accents, deep blacks and grays, high-end ui, geometric precision"
+    aspect_ratio: "16:9"
+  - path: "artifacts/portfolio/public/images/project-2.png"
+    description: "Abstract architectural 3D shapes in dark metallic textures, moody lighting, studio photography style, noir aesthetic"
+    aspect_ratio: "16:9"
+  - path: "artifacts/portfolio/public/images/project-3.png"
+    description: "Clean typography focused mobile app interface on a dark background, elegant, fashion noir aesthetic, minimal"
+    aspect_ratio: "16:9"
+  - path: "artifacts/portfolio/public/images/bg-texture.png"
+    description: "Very subtle dark film grain texture with soft vignette, nearly black, seamless pattern"
+    aspect_ratio: "16:9"
+
+notes:
+  - "Frontend-only single-page portfolio site. No backend API integration required."
+  - "Dark mode only by design. No theme toggles needed."
+  - "Using hash links for single-page scrolling navigation."
