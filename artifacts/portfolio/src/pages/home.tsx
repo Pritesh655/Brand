@@ -172,7 +172,7 @@ export default function Home() {
             Available for select brand architecture and digital experience projects. Let's elevate your SaaS to the next level.
           </p>
           
-          <Button size="lg" onClick={() => window.location.href = "mailto:hello@pritesh.design"} className="rounded-full shadow-2xl shadow-primary/20">
+          <Button size="lg" onClick={() => window.location.href = "mailto:priteshmohapatra63@gmail.com"} className="rounded-full shadow-2xl shadow-primary/20">
             <Mail className="mr-3 w-5 h-5" />
             Start a Conversation
           </Button>
